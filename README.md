@@ -64,21 +64,7 @@ python3 assigner.py ../test_data/dummy_data.csv ../test_data/assignment.csv ../t
 
 - Running the script using the example data will generate the following output:
 
-Number of students: 32
-
-experiment: 1, capacity: 12, assigned: 12, left over: 0
-experiment: 2, capacity: 10, assigned: 10, left over: 0
-experiment: 3, capacity: 10, assigned: 10, left over: 0
-
-Preference 1: 27
-Preference 2: 5
-Preference 3: 0
-Random: 0
-
-Total Score: 91
-Result written to ../test_data/assignment.csv
-Approximate runtime: 0.01 sec
-Done...
+![alt text](https://github.com/jurrehageman/assigner-forms/blob/master/images/terminal_output.png "Terminal Output")
 
 - A csv file is generated that can be opened in Excel:
 
