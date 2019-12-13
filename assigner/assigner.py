@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Practicum Assigner
-by Jurre Hageman (with a little help from Dave Langers on the algorithm)
+by Jurre Hageman (with help from Dave Langers on the algorithm)
 Year: 2019
 License: GNU General Public License (GPL)
 Date: 2019-12-13
