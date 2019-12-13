@@ -1,0 +1,3 @@
+12;Cloning GFP
+10;Generate a Yeast Knock-Out
+10;Search for New Antibiotics
