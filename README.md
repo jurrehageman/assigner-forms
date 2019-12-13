@@ -66,4 +66,8 @@ Dave Langers helped on the algorithm
 
 ## Workflow
 
-- First create a Google Forms as shown below: 
+- First create a Google Forms as shown below:
+
+![alt text](https://github.com/jurrehageman/assigner-forms/blob/master/images/form.png "Google Form setup")
+
+- Share your form to submit data. Data should be in the following order:
