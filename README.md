@@ -81,8 +81,7 @@ python3 assigner.py ../test_data/dummy_data.csv ../test_data/assignment.csv ../t
 
 ## Authors
 
-* **Jurre Hageman** - (https://github.com/jurrehageman/indeler)
-
+* **Jurre Hageman** 
 
 ## License
 
