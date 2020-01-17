@@ -58,6 +58,10 @@ Required arguments:
 
 ![alt text](https://github.com/jurrehageman/assigner-forms/blob/master/images/download_csv.png "Download csv file")
 
+- Create a text file with the following layout: positions per experiment;experiment name
+
+![alt text](https://github.com/jurrehageman/assigner-forms/blob/master/images/experiments_names.png "Experiment names")
+
 - Run the script:
 
 python3 assigner.py ../test_data/dummy_data.csv ../test_data/assignment.csv ../test_data/experiments.txt
