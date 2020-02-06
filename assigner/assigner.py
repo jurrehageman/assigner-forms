@@ -242,7 +242,7 @@ def write_results(student_data, outfile):
     :param outfile: The name of the outfile (str)
     :return: None
     """
-    with open(outfile, 'w') as f:
+    with open(outfile, 'w', newline="") as f:
         writer = csv.writer(f, delimiter=';',
                             quotechar='"',
                             quoting=csv.QUOTE_ALL)
